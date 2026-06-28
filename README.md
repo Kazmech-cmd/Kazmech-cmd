@@ -29,7 +29,6 @@
       <br><br>
       <h4>🗣 Языки:</h4>
       <img src="https://img.shields.io/badge/Deutsch%20(German)-A0%20in%20progress-red?style=flat-square&logo=google-translate&logoColor=white" alt="German" />
-      <img src="https://img.shields.io/badge/English%20(English)-A2%20in%20progress-red?style=flat-square&logo=google-translate&logoColor=white" alt="English" />
     </td>
   </tr>
 </table>
