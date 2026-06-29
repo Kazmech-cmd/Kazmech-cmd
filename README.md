@@ -20,8 +20,6 @@
     <td valign="top" width="50%">
       <h4> Что активно изучаю / планирую:</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <br><br>
       <h4> AI & ERP интеграция:</h4>
       <img src="https://img.shields.io/badge/LLM_Integration--blue?style=flat-square" alt="LLM" />
